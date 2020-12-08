@@ -12,7 +12,12 @@ audience: developer
 
 >[!VIDEO](https://video.tv.adobe.com/v/329028/?quality=9&learn=on)
 
-Description
+Example Image:
+
+![Example Image](../../assets/adobe-logo-old.png)
+
+[Download the PDF](./assets/CloudManagerWebinarSeptember2019.pdf)
+
 
 **Presenters**
 
