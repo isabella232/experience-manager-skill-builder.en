@@ -4,7 +4,7 @@ description: Description here
 sub-product: cloud-manager
 feature: quality-gates, pipelines
 topics: Development
-doc-type: webinar
+doc-type: event
 audience: developer
 ---
 

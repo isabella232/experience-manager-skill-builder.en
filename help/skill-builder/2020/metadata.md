@@ -1,0 +1,35 @@
+---
+title: Metadata
+description: Setting up a clear strategy to optimize discoverability
+solution: Experience Manager Assets
+product: experience manager
+sub-product: assets
+feature: Metadata
+topic: Content Management
+role: Business Practitioner
+level: Beginner
+version: cloud-service
+kt: 7339
+---
+
+# Metadata - Adobe Experience Manager Asset Series
+
+Use this five-part webinar series to build your knowledge base and maximize your investment in Adobe Experience Manager Assets. If you're a practitioner who is new to Adobe Experience Manager Assets or have been using Adobe Experience Manager Assets for a while and are looking to brush up on your existing skills, this is the ideal way to get a deep dive into five of the most important areas of the solution. Adobe experts will review the basics and also provide advanced insights that will leave you with actionable next steps you can put into practice immediately.
+
+Setting up a clear strategy to optimize discoverability.
+
+>[!VIDEO](https://video.tv.adobe.com/v/332134/?quality=12&learn=on&hidetitle=true)
+
+### Resources
++[Use Metadata schemas to manage asset metadata](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/authoring/metadata.html)
++[Extend Metadata schemas](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/configuring/metadata-schemas.html)
++[Optimize metadata authoring with cascading metadata](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/metadata/cascade-metadata-feature-video-use.html)
++[Automatically apply metadata to assets using Metdata Profiles](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/configuring/metadata-profiles.html)
++[AEM Metadata Schemas](https://experienceleague.adobe.com/docs/experience-manager-65/assets/administer/metadata-schemas.html?lang=en#administer)
++[Manage Asset metadata](https://docs.adobe.com/content/help/en/experience-manager-65/assets/administer/meta-edit.html#RegisteringacustomnamespacewithinAEM)
+
+### Series Recordings
++ [Asset Link](help/skill-builder/2020/asset-link.md)
++ [Brand Portal](help/skill-builder/2020/brand-portal.md)
++ [Dynamic Media](help/skill-builder/2020/dynamic-media.md)
++ [Folder Structure and Search](help/skill-builder/2020/folder-structure-search.md)
