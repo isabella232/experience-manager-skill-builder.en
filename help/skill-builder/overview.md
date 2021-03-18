@@ -8,13 +8,7 @@ solution: Experience Manager
 
 Welcome to the Adobe Experience Manager Skill Builder recordings. These are recorded webinars designed to build your knowledge base and maximize your investment in Adobe Experience Manager.
 
->[!TIP]
->
->**See the navigation on the left for recordings from previous Skill Builder events**.
-
-
-
-## Latest Recordings
+## What's New
 
 <table>
 <tr>
@@ -59,3 +53,7 @@ Welcome to the Adobe Experience Manager Skill Builder recordings. These are reco
   </td>
 </tr>
 </table>
+
+>[!TIP]
+>
+>**See the navigation on the left for recordings from previous Skill Builder events**.
