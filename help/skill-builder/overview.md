@@ -1,6 +1,7 @@
 ---
 title: Skill Builder Overview
 description: Recorded webinar series to build your knowledge base and maximize your investment in Adobe Experience Manager 
+solution: Experience Manager 
 ---
 
 # Experience Manager Skill Builder Recordings

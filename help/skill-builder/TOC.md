@@ -10,11 +10,11 @@ user-guide-description: This is a description for the user guide that will be di
 + 2019 {#2019}
   + [Testing Best Practices with Cloud Manager](./2019/cloud-manager-testing.md)
 + 2020 {#2020}
-  + [Asset Link](help/skill-builder/2020/asset-link.md)
-  + [Brand Portal](help/skill-builder/2020/brand-portal.md)
-  + [Dynamic Media](help/skill-builder/2020/dynamic-media.md)
-  + [Folder Structure and Search](help/skill-builder/2020/folder-structure-search.md)
-  + [Metadata](help/skill-builder/2020/metadata.md)
+  + [Asset Link](./2020/asset-link.md)
+  + [Brand Portal](./2020/brand-portal.md)
+  + [Dynamic Media](./2020/dynamic-media.md)
+  + [Folder Structure and Search](./2020/folder-structure-search.md)
+  + [Metadata](./2020/metadata.md)
 
 
 <!--
