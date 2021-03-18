@@ -8,8 +8,54 @@ solution: Experience Manager
 
 Welcome to the Adobe Experience Manager Skill Builder recordings. These are recorded webinars designed to build your knowledge base and maximize your investment in Adobe Experience Manager.
 
-Below are recordings from previous Skill Builder events...
+>[!TIP]
+>
+>**See the navigation on the left for recordings from previous Skill Builder events**.
+
+
 
 ## Latest Recordings
 
-* Latest...
+<table>
+<tr>
+  <td>
+    <a href="https://experienceleague.adobe.com/docs/adobe-developers-live-events/events/content/feb2021/headless-graphql-content-fragments.html">
+      <img alt="Asset Link" src="assets/332127.jpeg" />
+    </a>
+    <div>
+      <a href="https://experienceleague.adobe.com/docs/adobe-developers-live-events/events/content/feb2021/headless-graphql-content-fragments.html">
+    <strong>Asset Link</strong>
+    </a>
+    </div>
+    <p>
+    <em>Asset Link is your native connection to Adobe Creative Cloud.</em>
+    <p>
+  </td>
+  <td>
+    <a href="https://experienceleague.adobe.com/docs/adobe-developers-live-events/events/content/feb2021/spa-editor-2-0.html">
+    <img alt="Brand Portal" src="assets/332133.jpeg" />
+    </a>
+    <div>
+    <a href="https://experienceleague.adobe.com/docs/adobe-developers-live-events/events/content/feb2021/spa-editor-2-0.html">
+    <strong>Brand Portal</strong>
+    </a>
+    </div>
+    <p>
+    <em>Easy asset sharing with internal and external teams.</em>
+    </p>
+  </td>
+  <td>
+    <a href="https://experienceleague.adobe.com/docs/adobe-developers-live-events/events/content/feb2021/rapid-frontend-devlopment.html">
+      <img alt="Dynamic Media" src="assets/332132.jpeg" />
+    </a>
+     <div>
+      <a href="https://experienceleague.adobe.com/docs/adobe-developers-live-events/events/content/feb2021/rapid-frontend-devlopment.html">
+        <strong>Dynamic Media</strong>
+      </a>
+    </div>
+    <p>
+    <em>Automate the output of assets for all channels and screens.</em>
+    <p>
+  </td>
+</tr>
+</table>
