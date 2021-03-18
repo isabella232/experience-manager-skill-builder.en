@@ -20,7 +20,8 @@ Setting up a clear strategy to optimize discoverability.
 
 >[!VIDEO](https://video.tv.adobe.com/v/332134/?quality=12&learn=on&hidetitle=true)
 
-### Resources
+## Resources
+
 +[Use Metadata schemas to manage asset metadata](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/authoring/metadata.html)
 +[Extend Metadata schemas](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/configuring/metadata-schemas.html)
 +[Optimize metadata authoring with cascading metadata](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/metadata/cascade-metadata-feature-video-use.html)
@@ -28,7 +29,8 @@ Setting up a clear strategy to optimize discoverability.
 +[AEM Metadata Schemas](https://experienceleague.adobe.com/docs/experience-manager-65/assets/administer/metadata-schemas.html?lang=en#administer)
 +[Manage Asset metadata](https://docs.adobe.com/content/help/en/experience-manager-65/assets/administer/meta-edit.html#RegisteringacustomnamespacewithinAEM)
 
-### Series Recordings
+## Series Recordings
+
 + [Asset Link](help/skill-builder/2020/asset-link.md)
 + [Brand Portal](help/skill-builder/2020/brand-portal.md)
 + [Dynamic Media](help/skill-builder/2020/dynamic-media.md)

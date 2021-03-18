@@ -20,7 +20,8 @@ The basics of setting up and using your DAM.
 
 >[!VIDEO](https://video.tv.adobe.com/v/332135/?quality=12&learn=on&hidetitle=true)
 
-### Resources
+## Resources
+
 +[AEM Assets User Guide](https://docs.adobe.com/content/help/en/experience-manager-65/assets/home.html)
 +[Setting up your AEM Assets folder structure](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/configuring/baseline-folders.html)
 +[Set up AEM Assets folder permissions](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/configuring/baseline-permissions.html)
@@ -29,7 +30,8 @@ The basics of setting up and using your DAM.
 +[Get precise and accurate search results with dynamic search facets](https://docs.adobe.com/content/help/en/experience-manager-learn/assets/search-and-discovery/search.html)
 +[Advanced full-text search syntax](https://experienceleague.adobe.com/docs/experience-manager-64/assets/using/gql-search.html?lang=en#using)
 
-### Series Recordings
+## Series Recordings
+
 + [Asset Link](help/skill-builder/2020/asset-link.md)
 + [Brand Portal](help/skill-builder/2020/brand-portal.md)
 + [Dynamic Media](help/skill-builder/2020/dynamic-media.md)

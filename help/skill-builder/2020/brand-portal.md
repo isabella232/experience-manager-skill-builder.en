@@ -20,12 +20,14 @@ Easy asset sharing with internal and external teams.
 
 >[!VIDEO](https://video.tv.adobe.com/v/332133/?quality=12&learn=on&hidetitle=true)
 
-### Resources
+## Resources
+
 + [Overview of Brand Portal](https://docs.adobe.com/content/help/en/experience-manager-brand-portal/using/introduction/brand-portal.html)
 + [Brand Portal Videos](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/sharing/brand-portal.html)
 + [Asset Sourcing](https://docs.adobe.com/content/help/en/experience-manager-brand-portal/using/asset-sourcing-in-brand-portal/brand-portal-asset-sourcing.html)
 
-### Series Recordings
+## Series Recordings
+
 + [Asset Link](help/skill-builder/2020/asset-link.md)
 + [Dynamic Media](help/skill-builder/2020/dynamic-media.md)
 + [Folder Structure and Search](help/skill-builder/2020/folder-structure-search.md)
