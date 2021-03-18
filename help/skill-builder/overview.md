@@ -26,11 +26,11 @@ Welcome to the Adobe Experience Manager Skill Builder recordings. These are reco
     <p>
   </td>
   <td>
-    <a href="https://experienceleague.adobe.com/docs/adobe-developers-live-events/events/content/feb2021/spa-editor-2-0.html">
+    <a href="https://experienceleague.adobe.com/docs/experience-manager-skill-builder/skill-builder/2020/brand-portal.html">
     <img alt="Brand Portal" src="assets/332133.jpeg" />
     </a>
     <div>
-    <a href="https://experienceleague.adobe.com/docs/adobe-developers-live-events/events/content/feb2021/spa-editor-2-0.html">
+    <a href="https://experienceleague.adobe.com/docs/experience-manager-skill-builder/skill-builder/2020/brand-portal.html">
     <strong>Brand Portal</strong>
     </a>
     </div>
@@ -39,11 +39,11 @@ Welcome to the Adobe Experience Manager Skill Builder recordings. These are reco
     </p>
   </td>
   <td>
-    <a href="https://experienceleague.adobe.com/docs/adobe-developers-live-events/events/content/feb2021/rapid-frontend-devlopment.html">
+    <a href="https://experienceleague.adobe.com/docs/experience-manager-skill-builder/skill-builder/2020/dynamic-media.html">
       <img alt="Dynamic Media" src="assets/332132.jpeg" />
     </a>
      <div>
-      <a href="https://experienceleague.adobe.com/docs/adobe-developers-live-events/events/content/feb2021/rapid-frontend-devlopment.html">
+      <a href="https://experienceleague.adobe.com/docs/experience-manager-skill-builder/skill-builder/2020/dynamic-media.html">
         <strong>Dynamic Media</strong>
       </a>
     </div>
