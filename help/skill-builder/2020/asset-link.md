@@ -29,8 +29,8 @@ Asset Link is your native connection to Adobe Creative Cloud.
 
 ## Series Recordings
 
-+ [Brand Portal](help/skill-builder/2020/brand-portal.md)
-+ [Dynamic Media](help/skill-builder/2020/dynamic-media.md)
-+ [Folder Structure and Search](help/skill-builder/2020/folder-structure-search.md)
-+ [Metadata](help/skill-builder/2020/metadata.md)
++ [Brand Portal](./2020/brand-portal.md)
++ [Dynamic Media](./2020/dynamic-media.md)
++ [Folder Structure and Search](./2020/folder-structure-search.md)
++ [Metadata](./2020/metadata.md)
 

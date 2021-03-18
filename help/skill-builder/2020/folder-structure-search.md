@@ -32,7 +32,7 @@ The basics of setting up and using your DAM.
 
 ## Series Recordings
 
-+ [Asset Link](help/skill-builder/2020/asset-link.md)
-+ [Brand Portal](help/skill-builder/2020/brand-portal.md)
-+ [Dynamic Media](help/skill-builder/2020/dynamic-media.md)
-+ [Metadata](help/skill-builder/2020/metadata.md)
++ [Asset Link](./2020/asset-link.md)
++ [Brand Portal](./2020/brand-portal.md)
++ [Dynamic Media](./2020/dynamic-media.md)
++ [Metadata](./2020/metadata.md)

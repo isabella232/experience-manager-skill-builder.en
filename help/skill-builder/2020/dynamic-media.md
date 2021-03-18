@@ -30,7 +30,7 @@ Automate the output of assets for all channels and screens.
 
 ## Series Recordings
 
-+ [Asset Link](help/skill-builder/2020/asset-link.md)
-+ [Brand Portal](help/skill-builder/2020/brand-portal.md)
-+ [Folder Structure and Search](help/skill-builder/2020/folder-structure-search.md)
-+ [Metadata](help/skill-builder/2020/metadata.md)
++ [Asset Link](./2020/asset-link.md)
++ [Brand Portal](./2020/brand-portal.md)
++ [Folder Structure and Search](./2020/folder-structure-search.md)
++ [Metadata](./2020/metadata.md)

@@ -31,7 +31,7 @@ Setting up a clear strategy to optimize discoverability.
 
 ## Series Recordings
 
-+ [Asset Link](help/skill-builder/2020/asset-link.md)
-+ [Brand Portal](help/skill-builder/2020/brand-portal.md)
-+ [Dynamic Media](help/skill-builder/2020/dynamic-media.md)
-+ [Folder Structure and Search](help/skill-builder/2020/folder-structure-search.md)
++ [Asset Link](./2020/asset-link.md)
++ [Brand Portal](./2020/brand-portal.md)
++ [Dynamic Media](./2020/dynamic-media.md)
++ [Folder Structure and Search](./2020/folder-structure-search.md)
