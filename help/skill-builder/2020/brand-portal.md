@@ -1,0 +1,34 @@
+---
+title: Brand Portal
+description: Easy asset sharing with internal and external teams
+solution: Experience Manager Assets
+product: experience manager
+sub-product: assets
+feature: Brand Portal
+topic: Content Management
+role: Business Practitioner
+level: Beginner
+version: cloud-service
+kt: 7340
+---
+
+# Brand Portal - Adobe Experience Manager Asset Series
+
+Use this five-part webinar series to build your knowledge base and maximize your investment in Adobe Experience Manager Assets. If you're a practitioner who is new to Adobe Experience Manager Assets or have been using Adobe Experience Manager Assets for a while and are looking to brush up on your existing skills, this is the ideal way to get a deep dive into five of the most important areas of the solution. Adobe experts will review the basics and also provide advanced insights that will leave you with actionable next steps you can put into practice immediately.
+
+Easy asset sharing with internal and external teams.
+
+>[!VIDEO](https://video.tv.adobe.com/v/332133/?quality=12&learn=on&hidetitle=true)
+
+## Resources
+
++ [Overview of Brand Portal](https://docs.adobe.com/content/help/en/experience-manager-brand-portal/using/introduction/brand-portal.html)
++ [Brand Portal Videos](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/sharing/brand-portal.html)
++ [Asset Sourcing](https://docs.adobe.com/content/help/en/experience-manager-brand-portal/using/asset-sourcing-in-brand-portal/brand-portal-asset-sourcing.html)
+
+## Series Recordings
+
++ [Asset Link](asset-link.md)
++ [Dynamic Media](dynamic-media.md)
++ [Folder Structure and Search](folder-structure-search.md)
++ [Metadata](metadata.md)
