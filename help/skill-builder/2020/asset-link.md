@@ -29,8 +29,8 @@ Asset Link is your native connection to Adobe Creative Cloud.
 
 ## Series Recordings
 
-+ [Brand Portal](./2020/brand-portal.md)
-+ [Dynamic Media](./2020/dynamic-media.md)
-+ [Folder Structure and Search](./2020/folder-structure-search.md)
-+ [Metadata](./2020/metadata.md)
++ [Brand Portal](brand-portal.md)
++ [Dynamic Media](dynamic-media.md)
++ [Folder Structure and Search](folder-structure-search.md)
++ [Metadata](metadata.md)
 

@@ -28,7 +28,7 @@ Easy asset sharing with internal and external teams.
 
 ## Series Recordings
 
-+ [Asset Link](./2020/asset-link.md)
-+ [Dynamic Media](./2020/dynamic-media.md)
-+ [Folder Structure and Search](./2020/folder-structure-search.md)
-+ [Metadata](./2020/metadata.md)
++ [Asset Link](asset-link.md)
++ [Dynamic Media](dynamic-media.md)
++ [Folder Structure and Search](folder-structure-search.md)
++ [Metadata](metadata.md)
