@@ -13,11 +13,11 @@ Welcome to the Adobe Experience Manager Skill Builder recordings. These are reco
 <table>
 <tr>
   <td>
-    <a href="https://experienceleague.adobe.com/docs/adobe-developers-live-events/events/content/feb2021/headless-graphql-content-fragments.html">
+    <a href="https://experienceleague.adobe.com/docs/experience-manager-skill-builder/skill-builder/2020/asset-link.html">
       <img alt="Asset Link" src="assets/332127.jpeg" />
     </a>
     <div>
-      <a href="https://experienceleague.adobe.com/docs/adobe-developers-live-events/events/content/feb2021/headless-graphql-content-fragments.html">
+      <a href="https://experienceleague.adobe.com/docs/experience-manager-skill-builder/skill-builder/2020/asset-link.html">
     <strong>Asset Link</strong>
     </a>
     </div>
