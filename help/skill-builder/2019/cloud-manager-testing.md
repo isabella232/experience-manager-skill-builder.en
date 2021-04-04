@@ -7,8 +7,8 @@ feature: quality-gates, pipelines
 topics: Development
 doc-type: event
 audience: developer
+exl-id: f0e1feba-a12a-49c1-b5e2-fa4de9e3c49d
 ---
-
 # Testing Best Practices with Cloud Manager - September 2019
 
 >[!VIDEO](https://video.tv.adobe.com/v/329028/?quality=9&learn=on)

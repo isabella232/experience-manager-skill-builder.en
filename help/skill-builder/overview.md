@@ -1,9 +1,9 @@
 ---
 title: Skill Builder Overview
 description: Recorded webinar series to build your knowledge base and maximize your investment in Adobe Experience Manager 
-solution: Experience Manager 
+solution: Experience Manager
+exl-id: 2aa648cc-6a44-4d1d-98ab-a351abc80b6b
 ---
-
 # Experience Manager Skill Builder Recordings
 
 Welcome to the Adobe Experience Manager Skill Builder recordings. These are recorded webinars designed to build your knowledge base and maximize your investment in Adobe Experience Manager.
