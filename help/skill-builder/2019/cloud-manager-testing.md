@@ -3,7 +3,7 @@ title: Testing Best Practices with Cloud Manager - September 2019
 description: Description here
 sub-product: cloud-manager
 solution: Experience Manager
-feature: CI/CD Pipeline
+feature: Cloud Manager
 topics: Development
 doc-type: event
 audience: developer
