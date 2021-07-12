@@ -6,7 +6,7 @@ product: experience manager
 sub-product: assets
 feature: Dynamic Media Classic
 topic: Content Management
-role: Business Practitioner
+role: User
 level: Beginner
 version: cloud-service
 kt: 7341

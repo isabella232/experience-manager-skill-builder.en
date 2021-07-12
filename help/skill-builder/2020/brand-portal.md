@@ -6,7 +6,7 @@ product: experience manager
 sub-product: assets
 feature: Brand Portal
 topic: Content Management
-role: Business Practitioner
+role: User
 level: Beginner
 version: cloud-service
 kt: 7340
