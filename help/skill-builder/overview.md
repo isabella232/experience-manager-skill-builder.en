@@ -57,3 +57,4 @@ Welcome to the Adobe Experience Manager Skill Builder recordings. These are reco
 >[!TIP]
 >
 >**See the navigation on the left for recordings from previous Skill Builder events**.
+
