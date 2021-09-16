@@ -1,7 +1,7 @@
 ---
 title: Dynamic Media
 description: Automate the output of assets for all channels and screens
-solution: Experience Manager Assets
+solution: Experience Manager, Experience Manager Assets
 product: experience manager
 sub-product: assets
 feature: Dynamic Media Classic

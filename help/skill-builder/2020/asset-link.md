@@ -1,7 +1,7 @@
 ---
 title: Asset Link
 description: Your native connection to Adobe Creative Cloud.
-solution: Experience Manager Assets
+solution: Experience Manager, Experience Manager Assets
 product: experience manager
 sub-product: assets
 feature: Adobe Asset Link

@@ -1,7 +1,7 @@
 ---
 title: Metadata
 description: Setting up a clear strategy to optimize discoverability
-solution: Experience Manager Assets
+solution: Experience Manager, Experience Manager Assets
 product: experience manager
 sub-product: assets
 feature: Metadata

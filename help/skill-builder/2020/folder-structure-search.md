@@ -1,7 +1,7 @@
 ---
 title: Folder Structure and Search
 description: The basics of setting up and using your DAM
-solution: Experience Manager Assets
+solution: Experience Manager, Experience Manager Assets
 product: experience manager
 sub-product: assets
 feature: Asset Management

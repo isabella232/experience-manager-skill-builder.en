@@ -1,7 +1,7 @@
 ---
 title: Brand Portal
 description: Easy asset sharing with internal and external teams
-solution: Experience Manager Assets
+solution: Experience Manager, Experience Manager Assets
 product: experience manager
 sub-product: assets
 feature: Brand Portal
