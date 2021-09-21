@@ -9,7 +9,7 @@ topic: Content Management
 role: User
 level: Beginner
 version: cloud-service
-type: event
+type: Event
 kt: 7342
 exl-id: feadb1e0-ea1a-42ab-abf8-9791be46796e
 ---

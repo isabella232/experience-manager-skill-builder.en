@@ -6,10 +6,10 @@ product: experience manager
 sub-product: sites
 feature: Multi Site Manager
 topic: Localization
-role: Business Practitioner
+role: User
 level: Beginner
 version: cloud-service
-type: event
+type: Event
 kt: 8936
 ---
 

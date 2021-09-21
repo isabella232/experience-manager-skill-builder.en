@@ -6,10 +6,10 @@ product: experience manager
 sub-product: sites
 feature: Authoring
 topic: Content Management
-role: Business Practitioner
+role: User
 level: Beginner
 version: cloud-service
-type: event
+type: Event
 kt: 8935
 ---
 
