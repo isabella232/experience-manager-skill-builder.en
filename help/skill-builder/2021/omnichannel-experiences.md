@@ -1,5 +1,5 @@
 ---
-title: Content for ANYWHERE: Making Omnichannel experiences a reality 
+title: Content for ANYWHERE - Making omnichannel experiences a reality 
 description: Learn to deliver experiences across a wide range of channels from one environment
 solution: Experience Manager Sites
 product: experience manager
