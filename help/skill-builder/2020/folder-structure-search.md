@@ -33,7 +33,7 @@ The basics of setting up and using your DAM.
 
 ## Series Recordings
 
-+ [Asset Link](asset-link.md)
-+ [Brand Portal](brand-portal.md)
-+ [Dynamic Media](dynamic-media.md)
-+ [Metadata](metadata.md)
+* [Asset Link](asset-link.md)
+* [Brand Portal](brand-portal.md)
+* [Dynamic Media](dynamic-media.md)
+* [Metadata](metadata.md)

@@ -23,16 +23,16 @@ Setting up a clear strategy to optimize discoverability.
 
 ## Resources
 
-+[Use Metadata schemas to manage asset metadata](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/authoring/metadata.html)
-+[Extend Metadata schemas](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/configuring/metadata-schemas.html)
-+[Optimize metadata authoring with cascading metadata](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/metadata/cascade-metadata-feature-video-use.html)
-+[Automatically apply metadata to assets using Metdata Profiles](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/configuring/metadata-profiles.html)
-+[AEM Metadata Schemas](https://experienceleague.adobe.com/docs/experience-manager-65/assets/administer/metadata-schemas.html?lang=en#administer)
-+[Manage Asset metadata](https://docs.adobe.com/content/help/en/experience-manager-65/assets/administer/meta-edit.html#RegisteringacustomnamespacewithinAEM)
+*[Use Metadata schemas to manage asset metadata](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/authoring/metadata.html)
+*[Extend Metadata schemas](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/configuring/metadata-schemas.html)
+*[Optimize metadata authoring with cascading metadata](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/metadata/cascade-metadata-feature-video-use.html)
+*[Automatically apply metadata to assets using Metdata Profiles](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/configuring/metadata-profiles.html)
+*[AEM Metadata Schemas](https://experienceleague.adobe.com/docs/experience-manager-65/assets/administer/metadata-schemas.html?lang=en#administer)
+*[Manage Asset metadata](https://docs.adobe.com/content/help/en/experience-manager-65/assets/administer/meta-edit.html#RegisteringacustomnamespacewithinAEM)
 
 ## Series Recordings
 
-+ [Asset Link](asset-link.md)
-+ [Brand Portal](brand-portal.md)
-+ [Dynamic Media](dynamic-media.md)
-+ [Folder Structure and Search](folder-structure-search.md)
+* [Asset Link](asset-link.md)
+* [Brand Portal](brand-portal.md)
+* [Dynamic Media](dynamic-media.md)
+* [Folder Structure and Search](folder-structure-search.md)

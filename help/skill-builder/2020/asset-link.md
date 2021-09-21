@@ -23,14 +23,14 @@ Asset Link is your native connection to Adobe Creative Cloud.
 
 ## Resources
 
-+ [Adobe Asset Link videos](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/adobe-asset-link/launch-adobe-asset-link.html)
-+ [Asset Link for Adobe XD](https://helpx.adobe.com/enterprise/admin-guide.html/enterprise/using/adobe-asset-link-for-xd.ug.html)
-+ [Configure AEM Assets 6.5 and 6.4 for Adobe Asset Link](https://helpx.adobe.com/enterprise/using/configure-aem-assets-6-for-asset-link.html)
-+ [Configure AEM as a Cloud Service for Adobe Asset Link](https://helpx.adobe.com/enterprise/admin-guide.html/enterprise/using/configure-aem-assets-for-asset-link.ug.html)
+* [Adobe Asset Link videos](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/adobe-asset-link/launch-adobe-asset-link.html)
+* [Asset Link for Adobe XD](https://helpx.adobe.com/enterprise/admin-guide.html/enterprise/using/adobe-asset-link-for-xd.ug.html)
+* [Configure AEM Assets 6.5 and 6.4 for Adobe Asset Link](https://helpx.adobe.com/enterprise/using/configure-aem-assets-6-for-asset-link.html)
+* [Configure AEM as a Cloud Service for Adobe Asset Link](https://helpx.adobe.com/enterprise/admin-guide.html/enterprise/using/configure-aem-assets-for-asset-link.ug.html)
 
 ## Series Recordings
 
-+ [Brand Portal](brand-portal.md)
-+ [Dynamic Media](dynamic-media.md)
-+ [Folder Structure and Search](folder-structure-search.md)
-+ [Metadata](metadata.md)
+* [Brand Portal](brand-portal.md)
+* [Dynamic Media](dynamic-media.md)
+* [Folder Structure and Search](folder-structure-search.md)
+* [Metadata](metadata.md)
