@@ -1,18 +1,18 @@
 ---
 title: Metadata
 description: Setting up a clear strategy to optimize discoverability
-solution: Experience Manager Assets
+solution: Experience Manager, Experience Manager Assets
 product: experience manager
 sub-product: assets
 feature: Metadata
 topic: Content Management
-role: Business Practitioner
+role: User
 level: Beginner
 version: cloud-service
 type: event
 kt: 7339
+exl-id: 35b85f97-ffe4-43f9-98ae-dae0d36bae91
 ---
-
 # Metadata - Adobe Experience Manager Asset Series
 
 Use this five-part webinar series to build your knowledge base and maximize your investment in Adobe Experience Manager Assets. If you're a practitioner who is new to Adobe Experience Manager Assets or have been using Adobe Experience Manager Assets for a while and are looking to brush up on your existing skills, this is the ideal way to get a deep dive into five of the most important areas of the solution. Adobe experts will review the basics and also provide advanced insights that will leave you with actionable next steps you can put into practice immediately.
