@@ -10,7 +10,7 @@ role: Business Practitioner
 level: Beginner
 version: cloud-service
 type: event
-kt: 7342
+kt: 8945
 ---
 
 # Adobe Experience Manager Sites Basics
@@ -19,7 +19,7 @@ Learn how to create rich and engaging customer experiences in Adobe Experience M
 
 ## Author beautiful web experiences fast
 
->[!VIDEO](https://video.tv.adobe.com/v/332127/?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/337014/?quality=12&learn=on&hidetitle=true)
 
 Learn authoring fundamentals and skills to build and edit pages quickly.
 

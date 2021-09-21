@@ -15,7 +15,7 @@ user-guide-description: This is a description for the user guide that will be di
   * [Folder Structure and Search](./2020/folder-structure-search.md)
   * [Metadata](./2020/metadata.md)
 * 2021 {#2021}
-  <!-- * [Authoring Fundamentals](./2021/media-library-administration.md) -->
+  * [Authoring Fundamentals](./2021/media-library-administration.md)
   * [Media Library Administration](./2021/media-library-administration.md)
   * [Collaboration Tools](./2021/collaboration-tools.md)
   * [Omnichannel experiences](./2021/omnichannel-experiences.md)
