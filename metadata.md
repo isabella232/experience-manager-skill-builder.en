@@ -1,6 +1,7 @@
 ---
-cloud: experience-cloud
+cloud: Experience Cloud
 solution: Experience Manager
+feature-set: Experience Manager, Experience Manager Assets, Experience Manager Cloud Manager
 product: experience cloud
 type: Documentation
 mini-toc-levels: 2

@@ -1,18 +1,18 @@
 ---
 title: Asset Link
 description: Your native connection to Adobe Creative Cloud.
-solution: Experience Manager Assets
+solution: Experience Manager, Experience Manager Assets
 product: experience manager
 sub-product: assets
 feature: Adobe Asset Link
 topic: Content Management
-role: Business Practitioner
+role: User
 level: Beginner
 version: cloud-service
 type: event
 kt: 7342
+exl-id: feadb1e0-ea1a-42ab-abf8-9791be46796e
 ---
-
 # Asset Link - Adobe Experience Manager Asset Series
 
 Use this five-part webinar series to build your knowledge base and maximize your investment in Adobe Experience Manager Assets. If you're a practitioner who is new to Adobe Experience Manager Assets or have been using Adobe Experience Manager Assets for a while and are looking to brush up on your existing skills, this is the ideal way to get a deep dive into five of the most important areas of the solution. Adobe experts will review the basics and also provide advanced insights that will leave you with actionable next steps you can put into practice immediately.
@@ -34,4 +34,3 @@ Asset Link is your native connection to Adobe Creative Cloud.
 + [Dynamic Media](dynamic-media.md)
 + [Folder Structure and Search](folder-structure-search.md)
 + [Metadata](metadata.md)
-
