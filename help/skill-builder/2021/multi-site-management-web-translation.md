@@ -25,8 +25,8 @@ Learn the fundamentals of multi-site management and web content translation with
 
 ## Series Recordings
 
-+ [Author Beautiful Web Experiences fast](authoring-fundamentals.md)
-+ [Never waste time finding content again](media-library-administration.md)
-+ [Manage ever-changing content easily](collaboration-tools.md)
-+ [Content for ANYWHERE: Making omnichannel experiences a reality](omnichannel-experiences.md)
-+ [The Web and Beyond - The Power of Traditional and Headless Content Management](traditional-headless-content-management.md)
+* [Author Beautiful Web Experiences fast](authoring-fundamentals.md)
+* [Never waste time finding content again](media-library-administration.md)
+* [Manage ever-changing content easily](collaboration-tools.md)
+* [Content for ANYWHERE: Making omnichannel experiences a reality](omnichannel-experiences.md)
+* [The Web and Beyond - The Power of Traditional and Headless Content Management](traditional-headless-content-management.md)

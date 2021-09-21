@@ -25,8 +25,8 @@ Learn how to create rich and engaging customer experiences in Adobe Experience M
 
 ## Series Recordings
 
-+ [Author Beautiful Web Experiences fast](authoring-fundamentals.md)
-+ [Never waste time finding content again](media-library-administration.md)
-+ [Manage ever-changing content easily](collaboration-tools.md)
-+ [Content for ANYWHERE: Making omnichannel experiences a reality](omnichannel-experiences.md)
-+ [Go Global with Adobe Experience Manager](multi-site-management-web-translation.md)
+* [Author Beautiful Web Experiences fast](authoring-fundamentals.md)
+* [Never waste time finding content again](media-library-administration.md)
+* [Manage ever-changing content easily](collaboration-tools.md)
+* [Content for ANYWHERE: Making omnichannel experiences a reality](omnichannel-experiences.md)
+* [Go Global with Adobe Experience Manager](multi-site-management-web-translation.md)

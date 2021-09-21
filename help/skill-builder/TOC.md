@@ -23,7 +23,6 @@ user-guide-description: This is a description for the user guide that will be di
   + [MSM and Translation](multi-site-management-web-translation.md)
   + [Content Management](traditional-headless-content-management.md)
 
-
 <!--
 
 Articles must be added to this TOC file in order to render.

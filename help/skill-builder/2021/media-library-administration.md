@@ -25,8 +25,8 @@ Become a skilled author with a deep dive into AEM’s Sites and Media Library ad
 
 ## Series Recordings
 
-+ [Author Beautiful Web Experiences fast](authoring-fundamentals.md)
-+ [Manage ever-changing content easily](collaboration-tools.md)
-+ [Content for ANYWHERE: Making omnichannel experiences a reality](omnichannel-experiences.md)
-+ [Go Global with Adobe Experience Manager](multi-site-management-web-translation.md)
-+ [The Web and Beyond - The Power of Traditional and Headless Content Management](traditional-headless-content-management.md)
+* [Author Beautiful Web Experiences fast](authoring-fundamentals.md)
+* [Manage ever-changing content easily](collaboration-tools.md)
+* [Content for ANYWHERE: Making omnichannel experiences a reality](omnichannel-experiences.md)
+* [Go Global with Adobe Experience Manager](multi-site-management-web-translation.md)
+* [The Web and Beyond - The Power of Traditional and Headless Content Management](traditional-headless-content-management.md)
