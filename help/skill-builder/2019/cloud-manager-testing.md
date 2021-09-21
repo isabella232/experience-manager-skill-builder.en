@@ -4,7 +4,7 @@ description: Description here
 sub-product: cloud-manager
 feature: Cloud Manager
 topics: Development
-type: event
+type: Event
 audience: developer
 exl-id: f0e1feba-a12a-49c1-b5e2-fa4de9e3c49d
 ---

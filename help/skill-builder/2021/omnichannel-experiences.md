@@ -1,6 +1,6 @@
 ---
 title: Content for ANYWHERE: Making Omnichannel experiences a reality 
-description: Learn how to optimally deliver experiences across a wide range of channels from one central environment.
+description: Learn to deliver experiences across a wide range of channels from one environment
 solution: Experience Manager Sites
 product: experience manager
 sub-product: sites
@@ -17,7 +17,7 @@ kt: 8935
 
 Learn how to create rich and engaging customer experiences in Adobe Experience Manager in this 5-part webinar series. We will start with the building blocks of content authoring while introducing you to the fundamental concepts and operations. This will include sites admin features and basics of handling digital assets within AEM. In the later part of the series, discover features that can help you save time and be more efficient by re-using the content and delivering it across channels.
 
-## Content for ANYWHERE: Making Omnichannel experiences a reality 
+## Content for ANYWHERE - Making Omnichannel experiences a reality 
 
 >[!VIDEO](https://video.tv.adobe.com/v/336982/?quality=12&learn=on&hidetitle=true)
 
