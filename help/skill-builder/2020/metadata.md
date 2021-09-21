@@ -9,6 +9,7 @@ topic: Content Management
 role: Business Practitioner
 level: Beginner
 version: cloud-service
+type: event
 kt: 7339
 ---
 
