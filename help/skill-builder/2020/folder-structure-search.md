@@ -23,12 +23,12 @@ The basics of setting up and using your DAM.
 
 ## Resources
 
-* [AEM Assets User Guide](https://docs.adobe.com/content/help/en/experience-manager-65/assets/home.html)
+* [AEM Assets User Guide](https://experienceleague.adobe.com/docs/experience-manager-65/assets/home.html)
 * [Setting up your AEM Assets folder structure](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/configuring/baseline-folders.html)
 * [Set up AEM Assets folder permissions](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/configuring/baseline-permissions.html)
-* [Use collections to organize and share assets](https://docs.adobe.com/content/help/en/experience-manager-learn/assets/search-and-discovery/collections.html)
-* [Find visually similar assets with machine learning](https://docs.adobe.com/content/help/en/experience-manager-learn/assets/search-and-discovery/search.html)
-* [Get precise and accurate search results with dynamic search facets](https://docs.adobe.com/content/help/en/experience-manager-learn/assets/search-and-discovery/search.html)
+* [Use collections to organize and share assets](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/search-and-discovery/collections.html)
+* [Find visually similar assets with machine learning](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/search-and-discovery/search.html)
+* [Get precise and accurate search results with dynamic search facets](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/search-and-discovery/search.html)
 * [Advanced full-text search syntax](https://experienceleague.adobe.com/docs/experience-manager-64/assets/using/gql-search.html?lang=en#using)
 
 ## Series Recordings

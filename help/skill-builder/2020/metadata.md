@@ -28,7 +28,7 @@ Setting up a clear strategy to optimize discoverability.
 *[Optimize metadata authoring with cascading metadata](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/metadata/cascade-metadata-feature-video-use.html)
 *[Automatically apply metadata to assets using Metdata Profiles](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/configuring/metadata-profiles.html)
 *[AEM Metadata Schemas](https://experienceleague.adobe.com/docs/experience-manager-65/assets/administer/metadata-schemas.html?lang=en#administer)
-*[Manage Asset metadata](https://docs.adobe.com/content/help/en/experience-manager-65/assets/administer/meta-edit.html#RegisteringacustomnamespacewithinAEM)
+*[Manage Asset metadata](https://experienceleague.adobe.com/docs/experience-manager-65/assets/using/metadata.html?lang=en#RegisteringacustomnamespacewithinAEM)
 
 ## Series Recordings
 

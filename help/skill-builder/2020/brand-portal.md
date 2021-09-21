@@ -23,9 +23,9 @@ Brand Portal allows for easy asset sharing with internal and external teams.
 
 ## Resources
 
-* [Overview of Brand Portal](https://docs.adobe.com/content/help/en/experience-manager-brand-portal/using/introduction/brand-portal.html)
+* [Overview of Brand Portal](https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/introduction/brand-portal.html)
 * [Brand Portal Videos](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/sharing/brand-portal.html)
-* [Asset Sourcing](https://docs.adobe.com/content/help/en/experience-manager-brand-portal/using/asset-sourcing-in-brand-portal/brand-portal-asset-sourcing.html)
+* [Asset Sourcing](https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/asset-sourcing-in-brand-portal/brand-portal-asset-sourcing.html)
 
 ## Series Recordings
 
