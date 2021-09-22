@@ -9,6 +9,7 @@ topic: Content Management
 role: User
 level: Beginner
 version: cloud-service
+type: Event
 kt: 7340
 exl-id: 9070f559-b364-4d8f-a60a-1bda65fc4ca1
 ---
@@ -22,13 +23,13 @@ Brand Portal allows for easy asset sharing with internal and external teams.
 
 ## Resources
 
-+ [Overview of Brand Portal](https://docs.adobe.com/content/help/en/experience-manager-brand-portal/using/introduction/brand-portal.html)
-+ [Brand Portal Videos](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/sharing/brand-portal.html)
-+ [Asset Sourcing](https://docs.adobe.com/content/help/en/experience-manager-brand-portal/using/asset-sourcing-in-brand-portal/brand-portal-asset-sourcing.html)
+* [Overview of Brand Portal](https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/introduction/brand-portal.html)
+* [Brand Portal Videos](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/sharing/brand-portal.html)
+* [Asset Sourcing](https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/asset-sourcing-in-brand-portal/brand-portal-asset-sourcing.html)
 
 ## Series Recordings
 
-+ [Asset Link](asset-link.md)
-+ [Dynamic Media](dynamic-media.md)
-+ [Folder Structure and Search](folder-structure-search.md)
-+ [Metadata](metadata.md)
+* [Asset Link](asset-link.md)
+* [Dynamic Media](dynamic-media.md)
+* [Folder Structure and Search](folder-structure-search.md)
+* [Metadata](metadata.md)

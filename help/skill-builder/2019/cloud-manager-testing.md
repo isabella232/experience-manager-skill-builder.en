@@ -4,7 +4,7 @@ description: Description here
 sub-product: cloud-manager
 feature: Cloud Manager
 topics: Development
-doc-type: event
+type: Event
 audience: developer
 exl-id: f0e1feba-a12a-49c1-b5e2-fa4de9e3c49d
 ---
@@ -12,14 +12,12 @@ exl-id: f0e1feba-a12a-49c1-b5e2-fa4de9e3c49d
 
 >[!VIDEO](https://video.tv.adobe.com/v/329028/?quality=9&learn=on)
 
-Example Image:
-
-![Example Image](../../assets/adobe-logo-old.png)
-
-[Download the PDF](./assets/CloudManagerWebinarSeptember2019.pdf)
-
 
 **Presenters**
 
 * Justin Edelson - Product Manager
 * Patrick Kynaston - Customer Success Engineer
+
+## Resources
+
+[Download Presentation](./assets/CloudManagerWebinarSeptember2019.pdf)

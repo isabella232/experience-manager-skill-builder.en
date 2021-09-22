@@ -9,6 +9,7 @@ topic: Content Management
 role: User
 level: Beginner
 version: cloud-service
+type: Event
 kt: 7341
 exl-id: 8aebf75a-a17b-4d06-9e50-b2ab742fe790
 ---
@@ -22,15 +23,15 @@ Automate the output of assets for all channels and screens with Dynamic Media.
 
 ## Resources
 
-+[Dynamic Media Use Cases](https://www.adobe.com/content/dam/acom/en/marketing-cloud/experience-manager/pdfs/dynamic-media_dynamic-media-classic-use-cases-2019.pdf)
-+[Dynamic Media Videos](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/dynamic-media/dynamic-media-overview-feature-video-use.html?lang=en#dynamic-media)
-+[Rich Media Strategy Kickstart Guide](https://www.adobe.com/content/dam/www/us/en/experience-manager/pdfs/dynamic-media-kickstart-guide-2019.pdf)
-+[Rich Media Strategy Image Preset Guide](https://www.adobe.com/content/dam/www/us/en/experience-manager/pdfs/dynamic-media-image-preset-guide.pdf)
-+[Image is Everything Blog Series](https://blog.adobe.com/en/2019/04/11/image-is-everything-part-1-has-your-rich-media-strategy-expired.html#gs.iou0ek)
+*[Dynamic Media Use Cases](https://www.adobe.com/content/dam/acom/en/marketing-cloud/experience-manager/pdfs/dynamic-media_dynamic-media-classic-use-cases-2019.pdf)
+*[Dynamic Media Videos](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/dynamic-media/dynamic-media-overview-feature-video-use.html?lang=en#dynamic-media)
+*[Rich Media Strategy Kickstart Guide](https://www.adobe.com/content/dam/www/us/en/experience-manager/pdfs/dynamic-media-kickstart-guide-2019.pdf)
+*[Rich Media Strategy Image Preset Guide](https://www.adobe.com/content/dam/www/us/en/experience-manager/pdfs/dynamic-media-image-preset-guide.pdf)
+*[Image is Everything Blog Series](https://blog.adobe.com/en/2019/04/11/image-is-everything-part-1-has-your-rich-media-strategy-expired.html#gs.iou0ek)
 
 ## Series Recordings
 
-+ [Asset Link](asset-link.md)
-+ [Brand Portal](brand-portal.md)
-+ [Folder Structure and Search](folder-structure-search.md)
-+ [Metadata](metadata.md)
+* [Asset Link](asset-link.md)
+* [Brand Portal](brand-portal.md)
+* [Folder Structure and Search](folder-structure-search.md)
+* [Metadata](metadata.md)
