@@ -11,8 +11,8 @@ level: Beginner
 version: cloud-service
 type: Event
 kt: 8938
+exl-id: 86f2ce11-9603-4848-9626-46ed49ef821a
 ---
-
 # Adobe Experience Manager Sites Basics
 
 Learn how to create rich and engaging customer experiences in Adobe Experience Manager in this 5-part webinar series. We will start with the building blocks of content authoring while introducing you to the fundamental concepts and operations. This will include sites admin features and basics of handling digital assets within AEM. In the later part of the series, discover features that can help you save time and be more efficient by re-using the content and delivering it across channels.
