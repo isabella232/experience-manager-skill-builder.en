@@ -15,7 +15,7 @@ exl-id: 50981e5d-fd1f-4ab8-9b58-d4b8df69d089
 ---
 # Adobe Experience Manager Sites Basics
 
-Learn how to create rich and engaging customer experiences in Adobe Experience Manager in this 5-part webinar series. We will start with the building blocks of content authoring while introducing you to the fundamental concepts and operations. This will include sites admin features and basics of handling digital assets within AEM. In the later part of the series, discover features that can help you save time and be more efficient by re-using the content and delivering it across channels.
+Learn how to create rich and engaging customer experiences in Adobe Experience Manager in this 5-part webinar series. We will start with the building blocks of content authoring while introducing you to the fundamental concepts and operations. This will include sites admin features and basics of handling digital assets within AEM. In the later part of the series, discover features that can help you save time and be more efficient by re-using the content and delivering it across channels. 
 
 ## Manage ever-changing content easily
 
