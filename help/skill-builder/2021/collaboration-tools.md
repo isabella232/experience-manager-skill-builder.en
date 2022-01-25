@@ -10,7 +10,7 @@ role: User
 level: Beginner
 version: cloud-service
 type: Event
-kt: 7342
+kt: 8934
 exl-id: 50981e5d-fd1f-4ab8-9b58-d4b8df69d089
 ---
 # Adobe Experience Manager Sites Basics
@@ -19,7 +19,7 @@ Learn how to create rich and engaging customer experiences in Adobe Experience M
 
 ## Manage ever-changing content easily
 
->[!VIDEO](https://video.tv.adobe.com/v/332127/?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/336984/?quality=12&learn=on&hidetitle=true)
 
 Learn about the Experience Manager author collaboration tools.
 
