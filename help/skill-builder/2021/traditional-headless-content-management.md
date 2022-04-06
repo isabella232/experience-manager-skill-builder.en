@@ -1,7 +1,7 @@
 ---
 title: The Web and Beyond - The Power of Traditional and Headless Content Management
 description: description
-solution: Experience Manager Sites
+solution: Experience Manager,Experience Manager Sites
 product: experience manager
 sub-product: sites
 feature: Authoring

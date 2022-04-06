@@ -1,7 +1,7 @@
 ---
 title: Go Global with Adobe Experience Manager
 description: Learn the fundamentals of multi-site management and web content translation with tips on how to design a global website structure.
-solution: Experience Manager Sites
+solution: Experience Manager,Experience Manager Sites
 product: experience manager
 sub-product: sites
 feature: Multi Site Manager

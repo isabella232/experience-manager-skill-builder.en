@@ -1,7 +1,7 @@
 ---
 title: Never waste time finding content again
 description: Become a skilled author with a deep dive into AEM’s Sites and Media Library administration UI with tips and tricks to increase your day-to-day efficiency
-solution: Experience Manager Sites
+solution: Experience Manager,Experience Manager Sites
 product: experience manager
 sub-product: sites
 feature: Adobe Asset Link

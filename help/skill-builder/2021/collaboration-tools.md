@@ -1,7 +1,7 @@
 ---
 title: Manage ever-changing content easily
 description: Learn about the Experience Manager author collaboration tools
-solution: Experience Manager Sites
+solution: Experience Manager,Experience Manager Sites
 product: experience manager
 sub-product: sites
 feature: Authoring

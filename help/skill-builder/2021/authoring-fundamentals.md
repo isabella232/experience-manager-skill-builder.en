@@ -1,7 +1,7 @@
 ---
 title: Author beautiful web experiences fast
 description: Learn authoring fundamentals and skills to build and edit pages quickly
-solution: Experience Manager Sites
+solution: Experience Manager,Experience Manager Sites
 product: experience manager
 sub-product: sites
 feature: Authoring
